@@ -1,0 +1,18 @@
+{
+  "name": "Untitled",
+  "sprites": [
+    {
+      "name": "Sprite1",
+      "extends": "RunnableSprite",
+      "scripts": {
+        "state": "empty"
+      },
+      "costumes": [
+        {
+          "name": "costume1",
+          "source": "{path}/images/sprites/costume1.png"
+        }
+      ]
+    }
+  ]
+}
