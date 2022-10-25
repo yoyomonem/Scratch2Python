@@ -1,3 +1,4 @@
+import json
 import pygame
 import tkinter as tk
 from version_info import print_version
