@@ -1,5 +1,5 @@
 {
-  "name": "Untitled",
+  "project-name": "Untitled",
   "sprites": [
     {
       "name": "Sprite1",
@@ -10,7 +10,7 @@
       "costumes": [
         {
           "name": "costume1",
-          "source": "{path}/images/sprites/costume1.png"
+          "source": "../images/sprites/costume1.png"
         }
       ]
     }

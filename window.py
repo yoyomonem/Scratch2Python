@@ -1,9 +1,13 @@
+import codecs
 import json
 import pygame
 import tkinter as tk
 from version_info import print_version
 import time as time_controller
 
+json_file = codecs.open("assets\\project_data.json", "r+")
+with json:
+    data = json.read(json_file)
 window = tk.Tk()
 window.title("Scratch 2 Offline Editor written in Python 3.10.8")
 print_version()
