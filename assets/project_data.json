@@ -14,5 +14,12 @@
         }
       ]
     }
+  ],
+  "backdrops": [
+    {
+      "name": "backdrop1",
+      "extends": "RunnableBackdrop",
+      "source": "../images/backdrops/backdrop1.png"
+    }
   ]
 }
