@@ -10,7 +10,7 @@
       "costumes": [
         {
           "name": "costume1",
-          "source": "../images/sprites/costume1.png"
+          "source": "../images/sprites/Sprite1/costume1.png"
         }
       ]
     }
