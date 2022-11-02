@@ -73,7 +73,7 @@ w.pack()
 print_version()
 time_controller.sleep(1)
 print("Starting editor . . .")
-time_controller.sleep(1)
+time_controller.sleep(6)
 is_editor_open = True
 editor.mainloop()
 is_editor_open = False
